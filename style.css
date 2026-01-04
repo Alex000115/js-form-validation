@@ -1,0 +1,24 @@
+body{
+  background:#020617;
+  color:white;
+  font-family:Arial;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+form{
+  background:#111827;
+  padding:20px;
+  border-radius:12px;
+  width:260px;
+}
+input,button{
+  width:100%;
+  padding:8px;
+  margin-top:8px;
+}
+#error{
+  color:#ef4444;
+  margin-top:8px;
+}
